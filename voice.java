@@ -1,0 +1,5 @@
+class voice {
+	public voice() {
+		
+	}
+}
